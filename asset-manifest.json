@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe0e70d5.css",
+    "main.js": "/static/js/main.a103271d.js",
+    "static/js/787.c590323e.chunk.js": "/static/js/787.c590323e.chunk.js",
+    "static/media/all-glory.png": "/static/media/all-glory.363614873ff0e2cb096f.png",
+    "static/media/assassins_creed_revelations-1920x1200.jpg": "/static/media/assassins_creed_revelations-1920x1200.eff14f2d65eb37220101.jpg",
+    "static/media/wastroFlix-removebg-preview (2).png": "/static/media/wastroFlix-removebg-preview (2).f0a729c429b1d4b74d1e.png",
+    "static/media/wastroFlix-removebg-preview (1).png": "/static/media/wastroFlix-removebg-preview (1).7f0121dd7c74cfdc95d4.png",
+    "index.html": "/index.html",
+    "main.fe0e70d5.css.map": "/static/css/main.fe0e70d5.css.map",
+    "main.a103271d.js.map": "/static/js/main.a103271d.js.map",
+    "787.c590323e.chunk.js.map": "/static/js/787.c590323e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe0e70d5.css",
+    "static/js/main.a103271d.js"
+  ]
+}
